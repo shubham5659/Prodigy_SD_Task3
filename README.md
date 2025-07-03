@@ -32,7 +32,7 @@ To develop a simple, file-based Contact Management System in Java that allows us
 javac task3.java
 java task3
 ```
-🧪 Sample Execution
+## 🧪 Sample Execution
 ```yaml
 --- Contact Manager ---
 1. Add Contact
